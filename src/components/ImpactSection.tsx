@@ -13,12 +13,11 @@ const ImpactSection = () => {
 
           <p className="text-xl text-muted-foreground leading-relaxed max-w-3xl mx-auto">
             <span className="font-semibold text-foreground">
-              Seja a força da mudança
+              Seja a força da mudança,
             </span>
             {" "}
-            Seu minuto de atenção e o que feito para impulsionar a 
-            autonomia das famílias. Assista o video e ganhe o Crédito de Lucro que garante o futuro 
-            da nova agroindústria de castanha.
+            seu minuto de atenção pode impulsionar a 
+            autonomia das famílias. Assista (90s) e ative o Crédito de Lucro que garante o futuro da nova agroindústria de castanha.
           </p>
 
           {/* Illustration */}

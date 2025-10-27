@@ -24,9 +24,9 @@ const Hero = () => {
             {/* Folha Topo-Esquerda */}
             <img
               src={folha}
-              className="absolute -top-2 -left-4 md:-top-4 md:-left-8 
+              className="absolute -top-2 -left-8 md:-top-2 md:-left-8 
                          w-12 h-12 md:w-16 md:h-16 
-                         text-green-500 transform -rotate-45" // Cor verde com text-green-500
+                         text-green-500 transform -rotate-60" // Cor verde com text-green-500
               fill="currentColor"
               strokeWidth={1}
             />
@@ -44,9 +44,9 @@ const Hero = () => {
             {/* Folha Topo-Direita */}
             <img
               src={folha}
-              className="absolute -top-2 -right-4 md:-top-4 md:-right-8 
+              className="absolute -top-7 -right-4 md:-top-4 md:-right-8 
                          w-12 h-12 md:w-16 md:h-16 
-                         text-green-500 transform rotate-45 scale-x-[-1]" // Cor verde
+                         text-green-500 transform rotate-60 scale-x-[-1]" // Cor verde
               fill="currentColor"
               strokeWidth={1}
             />

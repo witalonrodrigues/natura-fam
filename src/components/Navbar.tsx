@@ -95,7 +95,7 @@ const Navbar = () => {
             size="icon"
             className={cn(
               "md:hidden",
-              isScrolled ? "text-foreground" : "text-white"
+              isScrolled ? "text-foreground" : "text-primary"
             )}
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
           >
@@ -120,7 +120,9 @@ const Navbar = () => {
                     "text-base font-medium transition-colors py-2",
                     location.pathname === link.path
                       ? "text-primary"
-                      : "text-foreground hover:text-primary"
+                      : isScrolled
+                        ? "text-foreground hover:text-primary"
+                        : "text-white hover:text-primary"
                   )}
                 >
                   {link.name}

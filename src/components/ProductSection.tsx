@@ -50,8 +50,7 @@ const ProductSection = () => {
             </p>
 
             <p className="text-base text-muted-foreground leading-relaxed">
-              Ao tocar de topo, radiant e achegue, evoquem um corpo agente e arbalizando da 
-              Castanha, ancorado em madeiras cremosas e sustentáveis.
+              ​As notas de topo, radiantes e cítricas, evoluem para um corpo quente e aveludado da Castanha, ancorado em madeiras cremosas e sustentáveis.
             </p>
           </div>
         </div>

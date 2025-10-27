@@ -20,15 +20,11 @@ const LocationSection = () => {
             </p>
 
             <p className="text-base leading-relaxed opacity-80">
-              Em um município de Beruri, no coração da Amazonas, que a ASSOAB (Associação dos 
-              Produtores e Produtoras Agroextrativistas de Beruri) concentra mais de agrega na 
-              regeneração da floresta, a ASSOAB empodera mais de 190 famílias de extrativistas.
+              No município de Beruri, no coração do Amazonas, que a ASSOAB (Associação dos Produtores e Beneficiadores Agroextrativistas) concretiza nossa agenda de regeneração. Com a inauguração da nova agroindústria em parceria com a Natura, Beruri transforma a economia local.
             </p>
 
             <p className="text-base leading-relaxed opacity-80">
-              Beneficia seus castanhais, exercendo em coleta com carinha, resguarda suas práticas 
-              sustentáveis e garantindo que mais de 60% é garantido que a floresta permanece em 
-              pé e viva.
+              Mais de 190 famílias de extrativistas beneficiem suas castanhas, elevando sua renda em até 60% e garantindo que a floresta permaneça em pé e viva.
             </p>
           </div>
 
